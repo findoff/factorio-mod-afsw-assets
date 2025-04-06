@@ -1,0 +1,9 @@
+{
+  "name": "afsw-assets",
+  "version": "0.0.1",
+  "title": "AFSW Assets [AFSW]",
+  "author": "abnessor",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Assets for [AFSW] mods"
+}
